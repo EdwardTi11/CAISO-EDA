@@ -149,26 +149,6 @@ Daily and seasonal production fluctuations highlight the importance of energy st
 
 ---
 
-# 📷 Sample Visualizations
-
-The notebook produces a variety of visualizations to explore relationships within the dataset.
-
-## Seasonal Renewable Output
-
-![Seasonality](images/seasonality.png)
-
-## Correlation Heatmap
-
-![Correlation Matrix](images/correlation.png)
-
-## Solar Production vs GHI
-
-![Solar vs GHI](images/solar_ghi.png)
-
-> Replace the image paths above with screenshots generated from your notebook.
-
----
-
 # 📂 Repository Structure
 
 ```text
